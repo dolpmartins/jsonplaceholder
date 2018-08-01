@@ -1,0 +1,47 @@
+
+{
+  "motorista": [
+	{
+		"Id": "ASDASF-ASDFASDF-ASDFAS";
+		"Codigo": 1;
+		"Cpf": "123.456.789-99";
+		"Nome": "Teste 01";
+		"FlgEstrangeiro": "0";
+		"Cnh": "050012156";
+		"ValidadeCnh": "31/07/2022";
+		"ValidadeCadastro": "31/07/2022";
+		"FlgProblema": "0";
+		"FlgBloqueio": "0";
+		"Rua": "Rua Um";
+		"Num":"01";
+		"Bairro": "Bairro Um";
+		"Cep":"13120-00";
+		"Cidade":"Campinas";
+		"Uf":"SP";
+		"TelFixo":"Não possui";
+		"NumCel":"019912341234";
+		"NumCelTransp":"01932104567";
+	},
+	{
+		"Id": "RTERTEWR-ASDFASDF-ERWERW";
+		"Codigo": 2;
+		"Cpf": "321.656.889-12";
+		"Nome": "Teste 02";
+		"FlgEstrangeiro": "0";
+		"Cnh": "050012156";
+		"ValidadeCnh": "31/07/2022";
+		"ValidadeCadastro": "31/07/2022";
+		"FlgProblema": "0";
+		"FlgBloqueio": "0";
+		"Rua": "Rua Um";
+		"Num":"01";
+		"Bairro": "Bairro Um";
+		"Cep":"13120-00";
+		"Cidade":"Campinas";
+		"Uf":"SP";
+		"TelFixo":"Não possui";
+		"NumCel":"019912341234";
+		"NumCelTransp":"01932104567";
+	}
+  ]
+}
